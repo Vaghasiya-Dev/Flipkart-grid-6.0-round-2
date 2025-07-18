@@ -55,5 +55,5 @@ For this model, I use Convolutional Neural Networks. My model used transfer lear
 * [Tensorflow Keras](https://www.tensrflow.org) - The AI framework used
 
 ## Authors
-* **Dev Vaghasiya**  - [aemiralfath]((https://github.com/Vaghasiya-Dev))
+* **Dev Vaghasiya**  - [aemiralfath](([https://github.com/Vaghasiya-Dev]))
 
