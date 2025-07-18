@@ -1,6 +1,6 @@
 # Fresh-Rotten-Fruits-Predictor
---this is a final project assignment-- <br/>
-We create a Tensorflow model to predict the fresh and rotten fruits. By doing so, we hope we can easily separate fresh and rotten fruits from fruit images.
+
+I create a Tensorflow model to predict the fresh and rotten fruits. By doing so, we hope we can easily separate fresh and rotten fruits from fruit images.
 
 ## Project Structure
 ```bash
@@ -48,22 +48,12 @@ Train         | freshapples     | 1693
 
 
 ## Network
-For this model, we use Convolutional Neural Networks. Our model used transfer learning InceptionV3 for the baseline model with 6 classes (Fresh and Rotten banana, apple, and orange). We also using VGG16 for the improved model with 2 classes (Fresh and Rotten Fruit) as our final model.
+For this model, I use Convolutional Neural Networks. My model used transfer learning InceptionV3 for the baseline model with 6 classes (Fresh and Rotten banana, apple, and orange). I also using VGG16 for the improved model with 2 classes (Fresh and Rotten Fruit) as our final model.
 
-## Prequisites
-You don't need to install anything since its written in Google Colab which is a cloud service
-- Copy this repository link into the collab https://github.com/Bangkit-JKT2-D/fruits-fresh-rotten-classification/blob/master/fresh-rotten-fruits-improve.ipynb
-- After succesfully open the notebook, create cookies.txt for downloading the dataset from kaggle
-- First of all, With the assumption of using Google Chrome, download extension [cookies.txt](https://chrome.google.com/webstore/detail/cookiestxt/njabckikapfpffapmjgojcnbfjonfjfg)
-- Open the kaggle link dataset [fruit-rotten-dataset](https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification) then on your right top corner of browser, choose the cookies.txt.
-- download the cookies.txt.
-- upload the cookies.txt on the notebook as what required
 
 ## Built With
 * [Tensorflow Keras](https://www.tensrflow.org) - The AI framework used
 
 ## Authors
-* **Ahmad Emir Alfatah**  - [aemiralfath](https://github.com/aemiralfath)
-* **Anggardha Febriano**  - [anggardhanoano](https://github.com/anggardhanoano)
-* **Zahroh Ayu Khumayr**  - [zakhumayr](https://github.com/zakhumayr)
+* **Dev Vaghasiya**  - [aemiralfath]((https://github.com/Vaghasiya-Dev))
 
